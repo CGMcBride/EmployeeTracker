@@ -15,3 +15,16 @@ VALUES
     ("Amy", "Mitchell", 2),
     ("Bill", "Johnson", 3),
     ("Dev", "Patel", 4);
+
+
+  -- SELECT
+
+   -- roles.title, roles.salary, 
+    
+   -- departments.department 
+    
+  --  FROM roles left join departments on
+
+   -- roles.departmentId = departments.departmentId
+
+   -- ORDER BY roles.rolesId;
