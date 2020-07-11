@@ -8,23 +8,25 @@ This challenge is to architect and build a solution for managing a company's emp
 
 There will be 3 tables to show how they all relate to each other within my created database.
 
-**department**
+##### department
 
-id -
-name - Department name
-**role**
+_id -_
+_name - Department name_
 
-id
-Title - role title
-Salary - role salary
-Department_id - reference to department role belongs to
-**employee**
+##### role
 
-id
-First Name - employee first name
-Last Name - VARCHAR(30) to hold employee last name
-Role_id - INT to hold reference to role employee has
-Manager_id
+_id_
+_Title - role title_
+_Salary - role salary_
+_Department_id - reference to department role belongs to_
+
+##### employee
+
+_id_
+_First Name - employee first name_
+_Last Name - employee last name_
+_Role_id - INT to hold reference to role employee has_
+_Manager_id_
 
 ### Command-line App
 
