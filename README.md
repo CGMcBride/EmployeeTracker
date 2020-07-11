@@ -10,21 +10,21 @@ There will be 3 tables to show how they all relate to each other within my creat
 
 **department**
 
-*id -
-*name - Department name
+id -
+name - Department name
 **role**
 
-*id
-*Title - role title
-*Salary - role salary
-*Department_id - reference to department role belongs to
+id
+Title - role title
+Salary - role salary
+Department_id - reference to department role belongs to
 **employee**
 
-*id
-*First Name - employee first name
-*Last Name - VARCHAR(30) to hold employee last name
-*Role_id - INT to hold reference to role employee has
-\*Manager_id
+id
+First Name - employee first name
+Last Name - VARCHAR(30) to hold employee last name
+Role_id - INT to hold reference to role employee has
+Manager_id
 
 ### Command-line App
 
