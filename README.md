@@ -38,4 +38,4 @@ _Manager_id_
 
 ### Command-line App
 
-Allows the user to add, view, and update department, roles
+Allows the user to add, view, and update department, roles. click on the link for a demostration https://drive.google.com/file/d/1L7LydwqP0LAJcfJEyfmT4fGmD4v8XDVQ/view
